@@ -1,0 +1,11 @@
+# This config file is used to configure your discord bot!
+enable: false
+bot:
+  # Bot token, Follow this guide to learn how to get a bot token https://docs.discord.com/developers/quick-start/getting-started
+  token: "YOUR-DISCORD-BOT-TOKEN"
+  status: "ONLINE" # Options: DO_NOT_DISTURB, IDLE, INVISIBLE, OFFLINE, ONLINE
+  activity: "https://dsc.gg/pgstudios"
+
+chat:
+  prefix: "<#1be7ff><b>Discord</#1be7ff> "
+  channel_id: "CHAT-ID"
