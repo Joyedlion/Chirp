@@ -1,0 +1,17 @@
+name: Chirp
+description: $description
+prefix: Chirp
+version: '${version}'
+main: xyz.pgstudios.chirp.Chirp
+api-version: '1.21.11'
+load: STARTUP
+authors: [ Joyedlion ]
+commands:
+  chirp:
+    permission: chirp.admin.chirp
+  broadcast:
+    permission: chirp.command.broadcast
+  bc:
+    permission: chirp.command.broadcast
+  announce:
+    permission: chirp.command.broadcast
