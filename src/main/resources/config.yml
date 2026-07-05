@@ -1,0 +1,3 @@
+# Chirp Uses Minimessage. The legacy & color codes will NOT work. Please read this doc on how to use minimessage
+# https://docs.papermc.io/adventure/minimessage/format/
+prefix: "<#1be7ff><b>Chirp</#1be7ff> "
